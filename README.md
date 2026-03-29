@@ -1,7 +1,5 @@
 # Projeto Netflix (simples) — Explicação:
 
-Este projeto é uma versão simples de uma página parecida com a Netflix. Vou explicar de forma bem fácil onde está cada coisa e o que cada pasta faz.
-
 - Raiz do projeto:
   - `README.md` — este arquivo (o que você está lendo).
   - `main/` — aqui fica a tela inicial onde você escolhe quem vai assistir.
